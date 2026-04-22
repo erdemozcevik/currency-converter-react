@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+body {
+  background-image: url(dollar.jpg);
+  background-position: center;
+  background-size: cover;
+}
