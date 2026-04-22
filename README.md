@@ -15,10 +15,11 @@ A simple currency converter application built with React using exchange rate API
 - Fetch API / Axios
 
 ## ⚙️ Installation
+
 ```bash
 npm install
 npm run dev
-
+```
 
 ## 📸 Preview
 ![App Screenshot](preview.png)
