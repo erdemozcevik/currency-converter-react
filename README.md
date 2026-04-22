@@ -18,5 +18,7 @@ A simple currency converter application built with React using exchange rate API
 ```bash
 npm install
 npm run dev
+
+
 ## 📸 Preview
 ![App Screenshot](preview.png)
